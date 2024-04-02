@@ -1,4 +1,2 @@
-<h1 class="">
-    Welcome to SvelteKit
-</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<h1>Movie App</h1>
+<p>This is a little tool to help me keep track of the movies I've watched.</p>
