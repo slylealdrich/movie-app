@@ -1,0 +1,1 @@
+<h1 class="w-full grid justify-center text-2xl">Search for a movie</h1>
