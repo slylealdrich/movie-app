@@ -1,6 +1,6 @@
 <script lang="ts">
     import MovieList from "$lib/components/MovieList.svelte";
-import type { MovieSearch, MovieSearchResult } from "$lib/types";
+    import type { MovieSearch, MovieSearchResult } from "$lib/types";
     import type { PageData } from "./$types";
     
     export let data: PageData;
